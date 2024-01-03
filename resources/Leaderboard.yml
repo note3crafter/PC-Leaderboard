@@ -1,0 +1,68 @@
+#Leaderboard v1.0.0
+
+##Setup here your Duration for refresh your leaderboard
+Duration: 60
+
+##Setup here the Location for the Leaderboard
+World: "world"
+X: 0
+Y: 64
+Z: 0
+
+##Setup here your leaderboard
+Leaderboard:
+  "§d====§f[§5Stats§f]§d====\n
+   §dYour Joins §f: §e{joins} \n
+   §dYour Jumps §f: §e{jumps}\n
+   §dYour Kicks §f: §e{kicks} \n
+   §dWalking Meters §f: §e{walkmeters}m\n
+   §dFlying Meters §f: §e{flymeters}m\n
+   §dPlaced Blocks §f: §e{breaks} \n
+   §dBreaked Blocks §f: §e{places} \n
+   §dDroppet items §f: §e{drops} \n
+   §dCollectet items §f: §e{picks} \n
+   §dYour Partner§f: §e{marry} \n
+   §dYour Clan§f: §e{clan} \n
+   §dYour Messages §f: §e{messages} \n
+   §dYour Votes §f: §e{votes}"
+#Aviable Features
+#{clan} -> Clanname
+#{marry} -> your partner
+#{coins} -> your coins
+#{rank} -> your rank
+#{money} -> your money
+#{ping} -> your ping
+#{tps} -> ServerTPS
+#{name} ->your playername
+#{online} -> Onlineplayers
+#{max_online} -> Max Online Players
+#{world} -> Worldname
+#{x} -> Your X Position
+#{y} -> Your Y Position
+#{z} -> Your Z Position
+#{ip} -> Your IP
+#{port} -> Server Port
+#{uid} -> Your UUDI
+#{xuid} -> Your Xbox ID
+#{health} -> Your Live
+#{max_health} -> Your maximal life
+#{food} -> Your Food
+#{max_food} -> Your maximal food
+#{scale} -> Your Scale
+#{xplevel} -> Your XP
+#{id} -> Your itemID in hand
+#{count} -> Your Item Amount in your hand
+#{kicks} -> Your Kicks
+#{joins} -> Your Joins
+#{breaks} -> Your Broket Blocks
+#{places} -> Your Placed Blocks
+#{drops} -> Your droppet items
+#{picks} -> Your collectet items
+#{interacts} -> Your interacts
+#{jumps} -> Your jumps
+#{messages} -> Your Messages
+#{votes} -> Your Votes
+#{flymeters} -> Your flying meters
+#{walkmeters} -> Your walked meters
+#{deaths} -> Your Deaths
+#{consumes} -> Your consumet items

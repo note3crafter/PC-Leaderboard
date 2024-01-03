@@ -1,0 +1,9 @@
+name: PC-Leaderboard
+main: TheNote\Leaderboard\Main
+version: 1.0.0
+api:
+  - 5.10.0
+author: TheNote/Rudolf2000/note3crafter
+description: PC-Leaderboard v.1.0.0
+softdepend:
+  - ProjectCore
